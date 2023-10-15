@@ -10,7 +10,7 @@
   margin-bottom: 8px;
 }
 body {
-  background-color: #192a56;
+  background-color: #130f40;
   color: #f5f6fa;
 }
 li {
@@ -41,9 +41,10 @@ li {
 }
 .container header .profile-avatar {
   display: block;
-  border-radius: 100%;
+  border-radius: 50%;
   margin: 0 auto 24px;
   width: 25%;
+  aspect-ratio: 1 / 1;
 }
 .profile-bio {
   text-align: center;
